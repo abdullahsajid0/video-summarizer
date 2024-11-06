@@ -1,0 +1,4 @@
+groq
+openai-whisper
+streamlit
+yt-dlp
